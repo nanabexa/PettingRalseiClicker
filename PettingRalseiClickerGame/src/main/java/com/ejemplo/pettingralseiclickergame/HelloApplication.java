@@ -1,4 +1,4 @@
-package com.ejemplo.pettingralseiclicker;
+package com.ejemplo.pettingralseiclickergame;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

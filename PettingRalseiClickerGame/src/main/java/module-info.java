@@ -1,4 +1,4 @@
-module com.ejemplo.pettingralseiclicker {
+module com.ejemplo.pettingralseiclickergame {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
@@ -11,6 +11,6 @@ module com.ejemplo.pettingralseiclicker {
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
 
-    opens com.ejemplo.pettingralseiclicker to javafx.fxml;
-    exports com.ejemplo.pettingralseiclicker;
+    opens com.ejemplo.pettingralseiclickergame to javafx.fxml;
+    exports com.ejemplo.pettingralseiclickergame;
 }

@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ejemplo</groupId>
-    <artifactId>PettingRalseiClicker</artifactId>
+    <artifactId>PettingRalseiClickerGame</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>PettingRalseiClicker</name>
+    <name>PettingRalseiClickerGame</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -134,7 +134,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.ejemplo.pettingralseiclicker/com.ejemplo.pettingralseiclicker.HelloApplication
+                                com.ejemplo.pettingralseiclickergame/com.ejemplo.pettingralseiclickergame.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
